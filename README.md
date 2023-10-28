@@ -1,1 +1,2 @@
 # Frontend-YC
+Adithi Shetty
